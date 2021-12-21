@@ -1,6 +1,6 @@
-# Livro de Receitas  👩‍🍳 
+# Livro de Receitas👨‍🍳 
 
-## Seja bem vindo
+## Seja bem vindo(a)!!
 
 ### Esse é o livro de receitas que eu gosto de comer.
 
